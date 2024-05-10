@@ -1,6 +1,6 @@
 # FLLMasterPiece
 The following python was for the AROC tournament.
-We our the CaptiBytes from Shenendehowa Middle School in Clifton Park, NY. We are part of the First Lego Leugue Challenge. Our team number is #3249 and our members are Rishabh N, Prishita S, Sasha B, Eli B, Jacob J, Panchami P, Yuhan S, and Audrey (Yutong) Z.
+We our the CaptiBytes from Shenendehowa Middle School in Clifton Park, NY. We are part of the First Lego Leugue Challenge. **Our team number is #3249 and our members are Rishabh N, Prishita S, Sasha B, Eli B, Jacob J, Panchami P, Yuhan S, and Audrey (Yutong) Z.**
 The code for each of the runs is stored in a Spike/Python file. The names are in order of when we launch our missions going from start to finish.
 
 01_PINK_4-12-25.llsp3  Completes M08 Rolling camera (20) and M13 - 1 audience member (10)
